@@ -17,7 +17,7 @@ orders_db = {}
 trades_db = []
 portfolio_db = {}
 
-# Mock authentication (hardcoded user)
+
 MOCK_USER_ID = "user123"
 
 
