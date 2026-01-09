@@ -2,7 +2,7 @@
 
 **Candidate Name:** Kashish Sharma  
 **Submission Date:** January 10, 2025  
-**GitHub Repository:** https://github.com/YOUR_USERNAME/trading-sdk-bajaj-broking
+**GitHub Repository:** https://github.com/kashishshar/trading-sdk-bajaj-broking
 
 ---
 
@@ -11,14 +11,14 @@ A simplified trading platform backend with REST APIs and a Python SDK wrapper fo
 ---
 
 ## Table of Contents
-- [Features]
-- [Technology Stack]
-- [Project Structure]
-- [Setup Instructions]
-- [API Documentation]
-- [SDK Usage]
-- [Testing]
-- [Assumptions]
+- Features
+- Technology Stack
+- Project Structure
+- Setup Instructions
+- API Documentation
+- SDK Usage
+- Testing
+- Assumptions
 
 ---
 
