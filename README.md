@@ -1,10 +1,5 @@
-# Trading SDK - Bajaj Broking Campus Hiring Assessment
+### Trading SDK 
 
-**Candidate Name:** Kashish Sharma  
-**Submission Date:** January 10, 2025  
-**GitHub Repository:** https://github.com/YOUR_USERNAME/trading-sdk-bajaj-broking
-
----
 
 A simplified trading platform backend with REST APIs and a Python SDK wrapper for managing orders, trades, and portfolio holdings.
 
